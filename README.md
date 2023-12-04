@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yeonwoo Son.
+### Hi👋 I'm Yeonwoo Son.
 
 <!--
 **SYW77/SYW77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
