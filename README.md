@@ -1,5 +1,7 @@
 ### Hi👋 I'm Yeonwoo Son.
 
+If you open <b><i>project.html</i></b>, you can see my self-introduction webpage that I created when I was a freshman.
+
 <!--
 **SYW77/SYW77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
